@@ -1,7 +1,6 @@
 from PIL import Image
 from tkinter import Tk
 from tkinter.filedialog import askopenfilenames
-from tkinter.filedialog import askopenfilename
 import os
 
 def image_collector():
